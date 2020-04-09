@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Shared Prefs</string>
+    <string name="enter_name">Enter Your Name/Data</string>
+    <string name="result_txt">Text Result</string>
+    <string name="button_share">Preferences Shared</string>
+    <string name="save_button">Save</string>
+</resources>
